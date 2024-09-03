@@ -15,7 +15,7 @@
 
  Fig1 : Overlap of gene signatures with genes over-expressed in BTNBC and ER+ luminal-B breast cancers
 
-These results could indicate intrinsic differences between the patient and mouse stroma. Alternatively, they may be a result of the higher predicted stromal cell purity achieved with our RNA-Seq approach.
+## These results could indicate intrinsic differences between the patient and mouse stroma. Alternatively, they may be a result of the higher predicted stromal cell purity achieved with our RNA-Seq approach.
 
 
 
