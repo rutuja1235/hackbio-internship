@@ -1,4 +1,8 @@
 # hackbio-internship
+## Learning Track 2: Biomarker discovery
+## Objective:
+In this stage, you will be assessed on your understanding of fundamental concepts in RNA-Seq and biomarker discovery and your ability to articulate these concepts clearly and concisely.
+
 # RNA-seq is a powerful tool for detecting differentially expressed alleles of transcripts in specific biological processes and can reveal new molecular mechanism of diseases as no reference genome is required. Nowadays, RNA-seq has been wildly used in the study of disease mechanism, clinical diagnosis, and drug development.
 ## MYCN oncogene amplification is a marker of poor prognosis in patients with neuroblastoma disease. Schramm et al. identified key genes and pathways associated with MYCN by RNA-seq on the SOLiD V4 platform (Schramm et al., 2013).
 ## RNA-seq has become widely used for investigating disease mechanisms, clinical diagnostics, and drug development.
