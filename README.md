@@ -9,6 +9,7 @@
 ## Stromal gene expression markers of cancer subtype
 ## The patient's stroma showed distinct changes typically observed in tumors when comparing TNBC (triple-negative breast cancer) to ER+ (estrogen receptor-positive) samples. This aligns with recent studies suggesting that intrinsic breast cancer subtypes can be identified based on the transcriptome of the tissue adjacent to the tumor.
 
+![differenential expression](https://github.com/user-attachments/assets/cb62fd77-7121-4e6a-a791-c3bf92ac9a8b)
 
 
  
