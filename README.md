@@ -22,9 +22,9 @@
 
 # References
 
-Bradford, J. R., Wappett, M., Beran, G., Logie, A., Delpuech, O., Brown, H., Boros, J., Camp, N. J., McEwen, R., Mazzola, A. M., D’Cruz, C., & Barry, S. T. (2016). Whole transcriptome profiling of patient-derived xenograft models as a tool to identify both tumor and stromal specific biomarkers. Oncotarget, 7(15), 20773–20787. https://doi.org/10.18632/oncotarget.8014
-Yang, X., Kui, L., Tang, M., Li, D., Wei, K., Chen, W., Miao, J., & Dong, Y. (2020). High-Throughput Transcriptome Profiling in Drug and Biomarker Discovery. Frontiers in Genetics, 11. https://doi.org/10.3389/fgene.2020.00019
-Schramm, A., Köster, J., Marschall, T., Martin, M., Schwermer, M., Fielitz, K., Büchel, G., Barann, M., Esser, D., Rosenstiel, P., Rahmann, S., Eggert, A., & Schulte, J. H. (2012). Next‐generation RNA sequencing reveals differential expression of MYCN target genes and suggests the mTOR pathway as a promising therapy target in MYCN‐amplified neuroblastoma. International Journal of Cancer, 132(3). https://doi.org/10.1002/ijc.27787
+### Bradford, J. R., Wappett, M., Beran, G., Logie, A., Delpuech, O., Brown, H., Boros, J., Camp, N. J., McEwen, R., Mazzola, A. M., D’Cruz, C., & Barry, S. T. (2016). Whole transcriptome profiling of patient-derived xenograft models as a tool to identify both tumor and stromal specific biomarkers. Oncotarget, 7(15), 20773–20787. https://doi.org/10.18632/oncotarget.8014
+### Yang, X., Kui, L., Tang, M., Li, D., Wei, K., Chen, W., Miao, J., & Dong, Y. (2020). High-Throughput Transcriptome Profiling in Drug and Biomarker Discovery. Frontiers in Genetics, 11. https://doi.org/10.3389/fgene.2020.00019
+### Schramm, A., Köster, J., Marschall, T., Martin, M., Schwermer, M., Fielitz, K., Büchel, G., Barann, M., Esser, D., Rosenstiel, P., Rahmann, S., Eggert, A., & Schulte, J. H. (2012). Next‐generation RNA sequencing reveals differential expression of MYCN target genes and suggests the mTOR pathway as a promising therapy target in MYCN‐amplified neuroblastoma. International Journal of Cancer, 132(3). https://doi.org/10.1002/ijc.27787
 
 
 
