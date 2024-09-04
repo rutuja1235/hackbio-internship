@@ -9,7 +9,7 @@ MYCN oncogene amplification is a marker of poor prognosis in patients with neuro
 In neuroblastoma, MYCN oncogene amplification is linked to poor prognosis. 
 ### Differential gene expression (DGE)
 Differential gene expression (DGE) analysis is a widely used technique in RNA-sequencing (RNA-seq) data analysis. It is commonly employed in various RNA-seq data processing applications to identify genes that are differentially expressed between two or more sample sets.
-Suryawanshi et al examined the placental transcriptome to analyze gene expression changes across different sections of the placenta. They employed differential expression analysis using DESeq2 to compare gene expression levels between different trimesters of pregnancy and between the fetal and maternal sides of the placenta at term.
+(Suryawanshi,2022) examined the placental transcriptome to analyze gene expression changes across different sections of the placenta. They employed differential expression analysis using DESeq2 to compare gene expression levels between different trimesters of pregnancy and between the fetal and maternal sides of the placenta at term.
 
 In the research paper “Whole transcriptome profiling of patient-derived xenograft models as a tool to identify both tumor and stromal specific biomarkers” They explored RNA-Seq as a hypothesis-free tool to generate independent tumor and stromal biomarkers and to investigate tumor-stroma interactions by leveraging the human-murine compartment specificity of patient-derived xenografts (PDX).
 Stromal gene expression markers of cancer subtype
@@ -28,11 +28,14 @@ The patient's stroma showed distinct changes typically observed in tumors when c
 
 ### References
 
-##### Bradford, J. R., Wappett, M., Beran, G., Logie, A., Delpuech, O., Brown, H., Boros, J., Camp, N. J., McEwen, R., Mazzola, A. M., D’Cruz, C., & Barry, S. T. (2016). Whole transcriptome profiling of patient-derived xenograft models as a tool to identify both tumor and stromal specific biomarkers. Oncotarget, 20773–20787. doi:10.18632/oncotarget.8014
+Bradford, J. R., Wappett, M., Beran, G., Logie, A., Delpuech, O., Brown, H., Boros, J., Camp, N. J., McEwen, R., Mazzola, A. M., D’Cruz, C., & Barry, S. T. (2016). Whole transcriptome profiling of patient-derived xenograft models as a tool to identify both tumor and stromal specific biomarkers. Oncotarget, 20773–20787. doi:10.18632/oncotarget.8014
 
-##### Yang, X.,Kui, L., Tang, M., Li, D., Wei, K., Chen, W., Miao, J., & Dong, Y. (2020).High Throughput Transcriptome Profiling in Drug and Biomarker Discovery. Frontiers in Genetics,11.doi:10.3389/fgene.2020.00019
+Yang, X.,Kui, L., Tang, M., Li, D., Wei, K., Chen, W., Miao, J., & Dong, Y. (2020).High Throughput Transcriptome Profiling in Drug and Biomarker Discovery. Frontiers in Genetics,11.doi:10.3389/fgene.2020.00019
 
-##### Schramm, A., Köster, J., Marschall, T., Martin, M., Schwermer, M., Fielitz, K., Büchel, G., Barann, M., Esser, D., Rosenstiel, P., Rahmann, S., Eggert, A., & Schulte, J. H. (2012). Next‐generation RNA sequencing reveals differential expression of MYCN target genes and suggests the mTOR pathway as a promising therapy target in MYCN‐amplified neuroblastoma. International Journal of Cancer doi:10.1002/ijc.27787
+Schramm, A., Köster, J., Marschall, T., Martin, M., Schwermer, M., Fielitz, K., Büchel, G., Barann, M., Esser, D., Rosenstiel, P., Rahmann, S., Eggert, A., & Schulte, J. H. (2012). Next‐generation RNA sequencing reveals differential expression of MYCN target genes and suggests the mTOR pathway as a promising therapy target in MYCN‐amplified neuroblastoma. International Journal of Cancer doi:10.1002/ijc.27787
+
+Suryawanshi, H., Max, K., Bogardus, K. A., Sopeyin, A., Chang, M. S., Morozov, P., Castano, P. M., Tuschl, T., & Williams, Z. (2022). Dynamic genome-wide gene expression and immune cell composition in the developing human placenta. Journal of Reproductive Immunology, 151, 103624. doi:10.1016/j.jri.2022.103624
+
 
 
 
