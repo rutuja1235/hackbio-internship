@@ -5,7 +5,7 @@
 
 ### Rna-seq
 RNA-seq is a powerful tool for detecting differentially expressed alleles of transcripts in specific biological processes and can reveal new molecular mechanism of diseases as no reference genome is required. Nowadays, RNA-seq has been wildly used in the study of disease mechanism, clinical diagnosis, and drug development.
-MYCN oncogene amplification is a marker of poor prognosis in patients with neuroblastoma disease. Schramm et al. identified key genes and pathways associated with MYCN by RNA-seq on the SOLiD V4 platform (Schramm et al., 2013). RNA-seq has become widely used for investigating disease mechanisms, clinical diagnostics, and drug development.
+MYCN oncogene amplification is a marker of poor prognosis in patients with neuroblastoma disease. (Schramm 2012) identified key genes and pathways associated with MYCN by RNA-seq on the SOLiD V4 platform . RNA-seq has become widely used for investigating disease mechanisms, clinical diagnostics, and drug development.
 In neuroblastoma, MYCN oncogene amplification is linked to poor prognosis. Schramm et al. (2013) used RNA-seq on the SOLiD V4 platform to identify key genes and pathways associated with MYCN amplification.
 ### Differential gene expression (DGE)
 Differential gene expression (DGE) analysis is a widely used technique in RNA-sequencing (RNA-seq) data analysis. It is commonly employed in various RNA-seq data processing applications to identify genes that are differentially expressed between two or more sample sets.
